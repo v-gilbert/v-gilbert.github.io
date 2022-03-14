@@ -1,19 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Home"
+    url: "/"
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Quantum posts"
+    url: /quantum-posts/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Other posts"
+    url: /other-posts/
+
+  - title: "Tools"
+    url: /tools/  
     
   - title: "CV"
     url: /cv/
