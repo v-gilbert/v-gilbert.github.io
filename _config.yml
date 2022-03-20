@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "vg - Blog"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Valentin GILBERT"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : 
   location         : "Paris-Saclay, France"
   employer         :
