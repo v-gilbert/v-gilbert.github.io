@@ -28,7 +28,7 @@ Work experience
   * Data collection & aggregation
   * Automation & optimization of data pipelines
   * Text recognition
-  * Stack: Python, MongoDB, Docker, Airflow, Jenkins, Jira, Confluence
+  * Stack: Python, Django, MongoDB, Docker, Airflow, Jenkins, Jira, Confluence
 
 * Feb 2019 - July 2019: Internship Resource estimation for Quantum Algorithms - Atos
   * Quantum error correction
