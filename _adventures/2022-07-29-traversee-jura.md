@@ -1,0 +1,93 @@
+---
+title: 'Traversée du Jura'
+date: 2022-07-29
+permalink: /adventures/traversee-jura
+tags:
+  - récit
+  - cyclisme
+---
+
+<p style="text-align:justify;">
+Le 17 juillet 2022, Yohan et moi sommes partis réaliser la traversée du jura en vélo. Nous avons traversé le Jura, de Culoz (01350) à Montbéliard (25200), et parcouru une partie de la région Bourgogne-Franche-Comté pour finir à Dijon. Ce billet de blog raconte cette aventure forte en rencontres et sensations.
+</p>
+
+Jour 1 (17 juillet 2022)
+------
+<div style="text-align:center">
+    <img src="/images/jura_j1.png" alt="Jour 1 Jura"/>
+</div>
+
+<p style="text-align:justify;">
+Dimanche 17 juillet, nous partons à l'aventure. La matinée a permis de terminer les derniers préparatifs. Je pars en Lapierre SENSIUM AL 300, harnaché de sacoches de selle et de guidon. Nous nous sommes répartis l'équipement commun: Yohan porte la tente et le gaz. Il a même pensé à prendre une petite cafetière à l'italienne. Je m'occupe du matériel de réparation, trousse de secours, gamelle et nourriture. Alexia et Didier sont venus nous souhaiter bonne chance à la gare. Le train part bondé à 11h57 direction gare de Lyon. Nous ne sommes pas dans le même wagon, j'en profite pour m'asseoir dans un carré pour surligner l'itinéraire de la semaine. Un couple s'assoit en face de moi. L'heure du déjeuner approchant, ils sortent leurs sandwichs, et commencent à les entamer. Des morceaux échappent à leur faim et tombent au sol, sans être ramassés... Malgré cet agacement, je décide de positiver ! Après tout c'est le début des vacances, et surtout de l'aventure ! Nous changeons de train à Lyon Part-Dieu. La connexion est rapide, nous n'avons que 15 minutes pour faire le changement. On se retrouve à l'opposé dans le second train pour aller à Culoz, celui-ci est également complet. Un contrôleur me glisse une remarque: je bloque l'accès à la salle des contrôleurs. Je réorganise mon espace et c'est parti pour 1h de trajet. Il fait chaud, mais je vois le paysage depuis la porte du wagon; les montagnes s'approchent de plus en plus et je sens l'air des vacances m'enivrer. Ca ne dure qu'un court instant, on nous annonce qu'un voyageur fait un malaise. Heureusement, un membre du corps médical est déjà sur place pour assister le malade. Nous arrivons enfin à Culoz (on ne sait toujours pas si le "z" doit se prononcer). On se prépare en sortant de la gare, petit jus de fruit, crème solaire et c'est parti pour une première session de cyclisme. Il est 16h et il fait encore chaud, on entame la montée, on s'évapore sur le bitume. On croise un camion, le même que ceux qu'on voit dans les traversées du désert, les conducteurs nous saluent. L'eau commence à se faire rare, on s'arrête à chaque cimetière pour trouver celle qui aura le meilleur goût. Paradoxalement, les cimetières sont des lieux sacrés qui tiennent de la survie pour les cyclistes. On termine la côte, fatigués par les 1000m de dénivelé escaladés. On trouve une auberge à Cuvery mais les tenanciers ne servent pas à manger ce soir là malgré notre tentative de négociation. Chez Lisa, c'est aussi fermé. On décide donc de redescendre vers Bellegarde-sur-Valserine, à fond de train. La nuit commence à tomber mais on trouve une supérette pour acheter de quoi manger le soir. On remonte sur Coupy pour planter la tente dans un champs, la vue est belle. Ce soir c'est riz au poulet, tomates cerises et brugnons en dessert. Difficile de trouver le sommeil lors de cette première nuit en pleine nature, même si nos matelas sont géniaux (modèle décathlon, franchement on recommande). On est parti sans duvet, j'ai des vêtements chauds mais Yohan a rien pris: il a froid. Fin de la première journée, au final 62km de parcours et 1250m de D+.
+</p>
+
+Jour 2 (18 juillet 2022)
+------
+<div style="text-align:center">
+    <img src="/images/jura_j2.png" alt="Jour 2 Jura"/>
+</div>
+
+<p style="text-align:justify;">
+Lundi 18 juillet, on se lève et petit café (quel luxe d’avoir emmené une cafetière en bikepack ! Mais franchement, ça met de bonne humeur donc aucun regret !). On repart de Bellegarde direction Les Rousses. C’est une bonne étape, on a beaucoup de montée et on passe par plusieurs stations de ski comme celles de Lélex et Mijoux. On s’arrête à Mijoux dans une boulangerie pour acheter nos sandwichs et on finit de s’épuiser dans la montée entre Mijoux et Lamoura (enfin j’ai surtout l’impression que c’est moi qui m’épuise car Yohan trace devant et me perd au bout de 3 virages). On déjeune au col en mangeant ce qu’on a pris à la boulangerie : wrap, sandwich végétarien et flan, bref, on est repu. On repart de notre petite clairière pour aller Aux Rousses. Avant de continuer vers le lac, Yohan s’arrête à Intersport pour acheter une polaire sans manches (je crois qu’il a vraiment eu froid la nuit dernière). On s’arrête ensuite au lac. Il y a une petite plage, des douches de la pelouse, l’endroit idéal pour faire une pause. On en profite pour se baigner. Le fond est vaseux, on s’enfonce parfois jusqu’au genoux mais quand on n’a pas touché à l’eau depuis plus de 48h alors on ne fait pas les difficiles.  On enchaîne sur une douche bien fraîche et on retourne aux Rousses pour faire nos achats du soir. Au Carrefour, on se fait avoir par un stand de fruit sec alléchant, on en ressort avec un sachet de 30€ qui durera toute la semaine. On retourne manger en bord de lac. Le vent s’essouffle petit à petit. Ce soir c’est apéritif, rosé et pâtes au curry. Yohan part installer sa tente accompagné des dernières lueurs du jour, j’en profite pour passer un petit coup de file à ma chérie qui me manque. Cette nuit, il fait encore plus froid, on est même obligés de sortir les couvertures de survie pour éviter de claquer des dents (enfin, pour une fois qu'elles servent à quelque chose, on ne va pas se plaindre !). Fin de la journée, au final, 70km parcourus et environ 1700m de D+.
+</p>
+
+
+Jour 3 (19 juillet 2022)
+------
+<div style="text-align:center">
+    <img src="/images/jura_j3.png" alt="Jour 3 Jura"/>
+</div>
+
+<p style="text-align:justify;">
+La qualité de notre sommeil s’améliore enfin. Yohan dort encore lorsque je me réveille, j’en profite pour trouver un coin ombragé pour avancer mon Terry Pratchett : Va-t-en-guerre. On poursuit sur le petit déjeuner : café, fruits et compotes. Je me suis rendu compte la veille que ma poche à eau fuyait. On retourne alors à Intersport pour la remplacer (PS : Je ne sais pas comment ils font mais je n’ai jamais vu un magasin dans cet état : c’est le foutoir). On en profite pour faire nos courses, il est déjà presque midi. On repart direction Morbier. Un cycliste nous indique la route pour remonter sur Tancua, puis on décide de prendre un raccourcis pour rejoindre le lac de l’abbaye. Un groupe de cyclistes est déjà sur les lieux : c’est un club qui organise sa sortie annuelle avec des remorques de près de 100kg (eux ils doivent avoir plus d’une cafetière dans leurs sacs). Un gars du coin s’intéresse à nos vélo et nous apprend que nous roulons en 50-34 dents à l’avant (information indispensable pour ne pas passer pour touristes la prochaine fois). Il nous indique un coin à l’ombre en bord de lac. Pour le déjeuner, on se régale avec un demi camembert, du jambon cru, avocat, yaourts et bien d’autres. Une dame s’approche pour discuter avec nous, elle a 3 enfants dont un qui est une bête de cyclisme (un peu comme nous au final). Elle est accompagnée d'un gros chien au poil noir (le genre de chien qui plairait à Alexia). On discute d’un peu de tout, économie, décroissance, philosophie de vie. On repart après cette bonne pause pour Malbuisson. Sur le trajet on s’arrête faire quelques courses, je réussis à me faire piquer à deux reprise par la même guêpe qui se perd dans mon tee-shirt. Le temps est humide, il a plu juste avant notre passage, on se retrouve trempé par l’air ambiant. Juste avant Malbuisson, on croise un cortège de voiture de saoudiens qui font un tour d’Europe « They say they don’t speak Anglish ». Ils essaient nos vélos puis repartent direction Paris. On essaie d’aller au camping de Malbuisson mais on se ravise, il coûte cher et l’ambiance est insupportable (musique et cris de marmots). Il est tard,  on se dirige vers Saint-point-lac où l’on trouve un autre camping. On essaie de rencontrer les propriétaires sans succès. On y fait tout de même étape pour prendre une bonne douche. On pose la tente un peu plus haut sur un parking au calme. On redescend près du lac pour dîner, il est près de minuit. On va enfin se coucher, fatigués de cette longue journée. Au final, 83km parcourus et environ 1700m de D+.
+</p>
+
+
+Jour 4 (20 juillet 2022)
+------
+<div style="text-align:center">
+    <img src="/images/jura_j4.png" alt="Jour 4 Jura"/>
+</div>
+
+<p style="text-align:justify;">
+On se réveille de beau matin, nous sommes contents car l’humidité de la soirée n’a pas percé la toile. On se fait notre petit café au bord du lac, le soleil commence à montrer le bout de son nez. On croise des jeunes qui commencent l’apéritif malgré l’heure matinale : petites bières locales, pâté, on les envie un peu. On reprend la route pour Pontarlier, il risque de faire orage aujourd’hui, nous entamons une course avec les nuages. On s’arrête à Pontarlier faire quelque courses dans une épicerie bobo veggie avec des baguettes à 3€20 l’unité (Il a intérêt d’être bon). Les kilomètres défilent entre Pontarlier et Morteau, la vélo-voie est déserte, peut-être est-ce à cause des nuages noirs qui nous poursuivent. On a à peine le temps d’avaler notre repas en arrivant sur Morteau que l’orage éclate. On se réfugie dans un bar, déco style chalet savoyard avec des photos de l’époque. Triple Karmeliet pour Yohan, IPA pour moi. Ça grêle, ça tonne, ça re-grêle, le courant se coupe à deux reprises et enfin arrive l’éclaircie tant attendue. On en profite pour s’échapper vers Villers-le-lac. Les routes n’ont rien à voir avec celle que nous avons empruntées jusqu’à maintenant. Les branches d’arbres cassées par la grêle s’étendent au sol. Les voitures roulent vite, chacun s’inquiète pour sa maison touchée par l’orage. On arrive par le haut du village, qui se trouve dans un piteux état. Les gens s’affairent déjà sur les toits pour remplacer les tuiles endommagées. Les pompiers sont sur place et aident des personnes âgées. On  redescend un peu et on tombe sur une famille en train de déblayer la route. Nous leur donnons un coup de main, c’est ainsi qu’on fait la connaissance de Milod, Jade et Tom. Ils n’en reviennent pas qu’on se soit arrêté pour les aider. Nous on en revient pas de la taille des grêlons, ça fait plus d’une heure qu’ils sont tombés et ils sont encore plus gros que des balles de ping-pong. Ces gens sont adorables, ils nous offre un petit pont pour nous remercier (alcool local de Pontarlier à l’anis, ça a un petit goût de réglisse, ça n’est pas désagréable). On repart en quête d’un endroit pour dormir la nuit, on a repéré un camping Suisse non loin de là. On continue d’observer les dégats en redescendant sur le camping, les verrières des maisons sont cassées, les volets bringuebalent, les vitres et pares-brises des voitures sont éclatés, même le crépi est touché. On arrive sur le camping lac des Brenets, un 5 étoiles très classe. Il est tard, on sympathise avec Richard qui est en plein service, c’est le maître restaurateur du camping. Il nous montre ses installations de panneaux solaires qui sont immondes « c’est pas suisse ça ». Sacré Richard, on a bien rigolé. Il nous propose un bungalow qui fait office de réserve pour la nuit, on accepte volontiers, ce soir c’est la suisse 5 étoiles. Le camping est super classe, les sanitaires nickels. On en profite pour prendre une petite douche et c’est parti pour aller manger à la Calèche, petit restaurant sur les hauteurs de Villers-le-lac (oui, on doit encore une fois refaire toute la côte). Le personnel n’est pas très aimable, ça contraste avec Richard. Cependant on se régale avec le repas qui est simple mais efficace : jambon, frites, salade et bière. On revient au camping pour la nuit, quelle journée ! Et que de rencontres ! Au final, 55km parcourus et environ 850m de D+.
+</p>
+
+
+Jour 5 (21 juillet 2022)
+------
+<div style="text-align:center">
+    <img src="/images/jura_j5.png" alt="Jour 5 Jura"/>
+</div>
+
+<p style="text-align:justify;">
+Petit déjeuner au camping, on salue Richard et en route! On écoule nos francs suisses dépensés pour le petit déjeuner dans une boulangerie et direction Montbéliard. Le balai des dépanneuses commence de bon matin, ce qui nous rappelle les évènements de la veille. On passe dans des villages dont les toitures sont dévastées. On fait une étape à Maîche, et on s’arrête dans un champ pour le pic-nique. On salue l’agriculteur du coin qui vient récupérer ses vaches, c’est son fils qui conduit le tracteur, de visu, je dirais qu’il a 8 ans : on ne chôme pas à la campagne. On repart en passant par Saint-Hippolyte, village très mignon traversant le Doubs. On poursuit sur une grosse montée, un scooter nous double en faisant semblant de pédaler, il est drôle celui-là. Le soir, on s’arrête au camping de Mandeure (village de la banlieue de Montbéliard). On réserve une table à l’auberge de Troulot, apparemment leur carpe frite vaut le détour. La terrine maison ainsi que le tiramisu ne sont pas en reste, on termine sur une petite liqueur de mirabelle pour fêter nos deux jours d’avance sur notre programme. On décide de poursuivre notre aventure et de continuer vers Dijon par la vélo-voie. On est les derniers à partir du restaurant, on retrouve notre petit camping pour faire une bonne nuit. Aujourd’hui, c’était 85km avec environ 1500m de D+.
+</p>
+
+Jour 6 (22 juillet 2022)
+------
+<div style="text-align:center">
+    <img src="/images/jura_j6.png" alt="Jour 6 Jura"/>
+</div>
+
+<p style="text-align:justify;">
+On est en forme ce matin, et d’humeur taquine (un automobiliste qui nous klaxonne fera les frais de  notre bonne humeur). On passe à Montbéliard, et on s’arrête dans la boulangerie « La Comtoise ». La boulangère est adorable, c’est une cycliste avertie qui a fait la traversée Nantes-Montbéliard dans sa jeunesse. Sa boutique expose beaucoup de photos de cyclotouristes qu’elle a rencontré au fil des années. Il faudra qu’on lui envoie une petite carte à la fin de nos vacances. Elle nous offre une baguette aux céréales et une baguette au charbon végétal. Ses pains aux amandes et pains aux abricots sont divins : Merci la comtoise ! On suit le Doubs jusqu’à l’Isle-sur-le-Doubs où l’on s’arrête pour déjeuner, juste à côté d’une écluse. Le spectacle commence, avec les péniches qui remontent le Doubs. Ça parle toutes les langues, ça crie, ça panique. La vie de batelier n’a pas l’air si paisible que ça. Les couples se disputent sur les amarres et c’est encore plus drôle quand c’est en Allemand. On repart pour Besançon, la route est longue et la fatigue musculaire commence à me gagner, je crois que mon corps n’avait pas prévu d’aller plus loin que Montbéliard. La vélovoie est vide, on s’arrête dans un village avec un musée sur les guerres du XXIème siècle. Le gardien est un passionné, il nous propose de remplir nos gourdes. Sur la route de Besançon, on se fait provoquer par un jeune cycliste fougeux qui nous dépasse. Ni une ni deux, on active notre rythme infernal pour le rattraper et le dépasser (qu'est-ce qu'on a pu rigoler !). On arrive sur Besançon juste avant que l’orage éclate. On s’arrête au Chapelier, bar restaurant au design vintage. On commence notre bière sous la pluie, en attendant qu’une place se libère à l’intérieur. Après une semaine d’aventure, nous ne sommes plus à 3 gouttes près. Une place se libère et les burgers arrivent, ils sont vraiment bons, on termine notre repas avec une petite crème brûlée maison. L’orage est terminé, on reprend nos vélo dans la nuit direction Dole pour trouver un coin sympa pour poser la tente. Yohan perd une vis de sa pédale automatique, on devra passer au Roy Merlin le lendemain pour la remplacer. On s’arrête en bord de vélo-voie au niveau de Vermiron où l’on trouve un carré d’herbe, c’est parfait. On s’endort facilement, fatigués par les 130km et 400 D+ que nous avons parcourus la journée.
+</p>
+
+Jour 7 (23 juillet 2022)
+------
+<div style="text-align:center">
+    <img src="/images/jura_j7.png" alt="Jour 7 Jura"/>
+</div>
+
+<p style="text-align:justify;">
+Dernière journée de vélo, on se lève en bord de lac au son des cyclistes qui passent de bon matin. Un pêcheur arrive en teuf-teuf et nous raconte ses exploits de la veille : un silure de 1m qu’il n’a pas réussi à remonter. La pêche est pourtant interdite à cet endroit. On termine le pain de la comtoise au petit déjeuner avec du jambon de poulet en guise de confiture. On poursuit la véloroute jusqu’à Dole où l’on trouve un petit parc pour s’arrêter se restaurer. Des amoureux font leurs photos de mariage. On repart ensuite pour Dijon, avec une soixantaine de km restants. Mon quadriceps droit commence à être vraiment fatigué et douloureux. On s’arrête au Maillys pour faire une pause, j’en profite pour prendre du paracétamol pour arriver jusqu’à Dijon. Les 30 dernières bornes sont longues, très longues : les grandes lignes droites s’enchaînent sans fin. On va directement au camping du lac Kir, peuplé de Hollandais, Allemands et Belges. Nos voisins sont aussi des cyclotouristes, leurs casquettes avec un drapeau Australien nous intriguent mais on est trop fatigué pour engager la conversation. On prend notre dernière douche du séjour et on se dirige vers le centre ville pour le diner. Ce sera « Chez ti » un restaurant chti. On se régale, la diversité des bières proposées est importante, carbonnade pour Yohan et Fish & Chips pour moi. Le bar d’en face fait jouer un groupe de rock, ils sont vraiment bons. On discute avec le patron, il nous offre ses secrets pour une carbonnade réussie (attention, elle n’est pas flamande). On rentre enfin se coucher, personnellement je suis épuisé par tout cette journée, mais super content d’être arrivé au bout de cette semaine. Pas une engueulade, pas une prise de tête et plein de belles rencontres. Yohan est un bon acolyte pour partir à l’aventure. Pour cette dernière étape, on aura roulé 120km et environ 400 de D+.
+</p>
+
+Au final, une semaine de vélo c'est:
+* 600km parcourus
+* Environ 6000m de D+
+* 3 piqûres de guêpe
+* Environ 35 litres d'eau pour se désaltérer
+* 6 douches
+* 3 nuits en camping
