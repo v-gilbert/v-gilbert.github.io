@@ -24,3 +24,24 @@ Jour 2 (16 août 2022)
 <p style="text-align:justify;">
 Malgré notre enthousiasme, les couvertures de survie n’auront pas suffi pour braver les 2°C de la nuit. Antoine est chafouin, il évoque plusieurs fois la volonté de rentrer chez lui. La complicité d’Alexia la pousse a recherche des navettes repartant du col, sans succès. Nous montons prendre le petit déjeuner qui nous réconforte de cette courte nuit : café, jus d’orange, pain et confiture. S’ensuit un unboxing de pic-nique qui semble un peu léger : taboulé, 2 petites tranches de pain, 3 tranches de saucisson et un bout de formage. Le bulletin météo est bon, nous n’aurons par de pluie aujourd’hui. On rassemble nos affaires et c’est parti direction le refuge de l’Arpont. Les premières lueurs du jour sont magnifiques, des marmottons se chamaillent sur le côté du chemin. On croise des gardes du parc de la Vanoise ainsi que notre premier troupeau de moutons qui paissent un lac asséché. Nous rencontrons également notre premier bouquetin, ce dernier n’est pas farouche et semble être plus préoccupé par son appétit que par ses observateurs. Nous traversons pierriers et longeons la vallée ou courre le Doron de Termignon. Il est facile d’observer les vautours fauves qui nous survolent grâce à nos jumelles. Au loin s’étale le glacier de la Vanoise s’écoule inlassablement dans la vallée. Nous déjeunons au bord du lac des Lozières, Alexia en profite pour y tremper les pieds : c’est vivifiant. On fait sécher nos tentes et couvertures de survie trempées par la condensation de la dernière nuit. On reprend rapidement notre route pour traverser nombre de torrents et ruisseaux. On rencontre nos premiers jeunes bouquetins foufous qui sautent sur les rochers. On arrive au refuge de l’Arpont en début d’après-midi, les belges sont déjà là et entament leurs premières bières. On se trouve un coin abrité du vent pour établir notre campement. Ce soir, c’est douche froide (car on trouve que 4€50 la douche chaude de 5 minutes c’est vraiment abuser). A table, nous rencontrons Guillaume et Justine ainsi qu’un couple d’Allemands. Une partie du repas se fait donc en anglais. Ce soir, c’est soupe au curry, tagliatelles à la bolognaise et fromage qui « déchausse les dents ». On finit sur une panna cotta en guide de dessert. Le club lessive se réunit après le repas pour nettoyer les affaires de la journée. Demain, la journée promet d’être longue avec 7h de marche annoncé, 8 en comptant les pauses. On décide de mettre le réveil pour 6h30 du matin (malgré mes tentatives de négociation infructueuses pour le repousser le plus tard possible). La nuit sera plus chaude cette nuit, on gagne environ 5°C. On s’endort paisiblement après cette belle journée, pleine de bouquetins et de marmottes avec une seule hâte, vivre la journée du lendemain.
 </p>
+<div id="map" style="width: auto; height: 400px"></div>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.7.0/gpx.min.js"></script>
+
+<script type="application/javascript">
+  var map = L.map('map');
+
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
+
+  var gpx = '/files/glaciers_vanoise.gpx'; // URL to your GPX file or the GPX itself
+  new L.GPX(gpx, {async: true, marker_options: {
+    startIconUrl: '/images/pin-icon-start.png',
+    endIconUrl: '/images/pin-icon-end.png'}}
+    ).on('loaded', function(e) {
+      map.fitBounds(e.target.getBounds());
+  }).addTo(map);
+</script>
