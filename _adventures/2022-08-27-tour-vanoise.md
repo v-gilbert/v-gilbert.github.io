@@ -27,6 +27,9 @@ Malgré notre enthousiasme, les couvertures de survie n’auront pas suffi pour 
 <div id="map" style="width: auto; height: 400px"></div>
 
 
+
+
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.7.0/gpx.min.js"></script>
 
