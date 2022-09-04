@@ -182,7 +182,7 @@ Itinéraire
 <script type="application/javascript">
   var map = L.map('map');
 
-  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png?oauth_token=j9XWo2cv3amoOQa3EdTmI4R6kNmT68GShexYTQkU', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(map);
 
