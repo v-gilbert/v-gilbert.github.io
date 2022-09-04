@@ -179,6 +179,8 @@ Itinéraire
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.7.0/gpx.min.js"></script>
 
+<!--
+
 <script type="application/javascript">
   var map = L.map('map');
 
@@ -195,3 +197,28 @@ Itinéraire
       map.fitBounds(e.target.getBounds());
   }).addTo(map);
 </script>
+-->
+
+<script>
+
+  /* Set up the initial map center and zoom level */
+  var map = L.map('map', {
+    center: [41.77, -72.69], // EDIT coordinates to re-center map
+    zoom: 12,  // EDIT from 1 (zoomed out) to 18 (zoomed in)
+    scrollWheelZoom: false,
+    tap: false
+  });
+
+  /* display basemap tiles -- see others at https://leaflet-extras.github.io/leaflet-providers/preview/ */
+  L.tileLayer(
+    'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+      attribution: '&copy; <a href="https://osm.org/copyright">\
+        OpenStreetMap</a> contributors, &copy;\
+        <a href="https://carto.com/attribution">CARTO</a>'
+  }).addTo(map);
+
+  /* Display a point marker with pop-up text */
+  L.marker([41.77, -72.69]).addTo(map) // EDIT marker coordinates
+  .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
+
+  </script>
