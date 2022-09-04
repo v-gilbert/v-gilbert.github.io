@@ -184,7 +184,6 @@ Itinéraire
   var map = L.map('map');
   console.log('coucou0');
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    //attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     attribution: 'Map data &copy; <a href="http://www.osm.org">OpenStreetMap</a>'
   }).addTo(map);
   console.log('coucou1');
