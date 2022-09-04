@@ -177,8 +177,7 @@ Itinéraire
 <p> Vous trouverez le fichier GPX <a href="/files/glaciers_vanoise.gpx">ici</a>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js"></script>
-<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.7.0/gpx.min.js"></script>-->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.5.1/gpx.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.7.0/gpx.min.js"></script>
 
 <script type="application/javascript">
   var map = L.map('map');
@@ -186,8 +185,9 @@ Itinéraire
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: 'Map data &copy; <a href="http://www.osm.org">OpenStreetMap</a>'
   }).addTo(map);
+
   console.log('coucou1');
-  var gpx = '/files/glaciers_vanoise.gpx'; // URL to your GPX file or the GPX itself
+  var gpx = '/files/glaciers_vanoise.gpx';
   new L.GPX(gpx, {async: true, marker_options: {
     startIconUrl: '/images/pin-icon-start.png',
     endIconUrl: '/images/pin-icon-end.png',
