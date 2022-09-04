@@ -166,7 +166,7 @@ En reprenant notre route on croise un troupeau de vaches et de petites marmottes
 </p>
 
 <iframe width="420" height="315"
-  src="https://www.youtube.com/embed/ovtBy6Eaq-U?vq=hd1080">
+  src="https://www.youtube.com/embed/ovtBy6Eaq-U">
 </iframe> 
 
 
