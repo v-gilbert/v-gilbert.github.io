@@ -184,7 +184,7 @@ Itinéraire
 
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-    accessToken: 'j9XWo2cv3amoOQa3EdTmI4R6kNmT68GShexYTQkU'
+    access_token: 'kvF0CVQmd6FdpbJDSmkbZEASTohweijckJETzFESBlE'
   }).addTo(map);
 
   var gpx = '/files/glaciers_vanoise.gpx'; // URL to your GPX file or the GPX itself
