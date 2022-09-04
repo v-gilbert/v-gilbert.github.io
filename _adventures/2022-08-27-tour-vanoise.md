@@ -220,5 +220,4 @@ Itinéraire
   /* Display a point marker with pop-up text */
   L.marker([41.77, -72.69]).addTo(map) // EDIT marker coordinates
   .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
-
-  </script>
+</script>
