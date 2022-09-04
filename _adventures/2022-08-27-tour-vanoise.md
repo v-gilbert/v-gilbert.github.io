@@ -181,20 +181,16 @@ Itinéraire
 
 <script type="application/javascript">
   var map = L.map('map');
-  console.log('coucou0');
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: 'Map data &copy; <a href="http://www.osm.org">OpenStreetMap</a>'
   }).addTo(map);
 
-  console.log('coucou1');
   var gpx = '/files/glaciers_vanoise.gpx';
   new L.GPX(gpx, {async: true, marker_options: {
     startIconUrl: '/images/pin-icon-start.png',
     endIconUrl: '/images/pin-icon-end.png',
     shadowUrl: '/images/pin-shadow.png'}}
     ).on('loaded', function(e) {
-      console.log('coucou2');
       map.fitBounds(e.target.getBounds());
   }).addTo(map);
-  console.log('coucou3');
 </script>
