@@ -19,11 +19,6 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% include archive-single.html %}
 {% endfor %}
 
-<h2>Other posts</h2>
-{% for post in site.otherposts %}
-  {% include archive-single.html %}
-{% endfor %}
-
 <h2>Adventures</h2>
 {% for post in site.adventures %}
   {% include archive-single.html %}
