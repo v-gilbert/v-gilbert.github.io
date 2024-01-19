@@ -27,6 +27,9 @@ Nous sommes partis dimanche matin, de bonne heure alors que la fraîcheur matina
 
 Jour 2 (12 Juin 2023)
 ------
+<div style="text-align:center">
+    <img src="/images/pays_bas/pays_bas_2.png" alt=""/>
+</div>
 
 <p style="text-align:justify;">
 Le réveil ne se fait pas sans anicroches, en effet, nos arceaux ont cédés au petit matin, mettant à mal notre grâce matinée tant méritée. Bonheur ou malheur ? Notre tente, dans son dernier soupir s'est efforcée de nous protéger de la bruine jusqu'au petit matin, tirant sa révérence sous un dernier cri *Clac Clac*. Bien décidés à la ressusciter, nous ajoutons à l'étape du jour la visite d'une zone industrielle belge afin de réparer les arceaux fendus. On profite du bord de mer désert, réel contraste de la journée précédente, et dégustons notre petit déjeuner, composé de fruits et de gaufres liégeoises. Les balayeuses s'affairent à nettoyer le front de plage, ces dameuses de l'été préparent les pistes pour les prochains plagistes prêts à chausser leurs parasols. Nous écoutons la mer, à travers l'oeuvre d'Ivars Drulle: sortes d'énormes pavillons dirigés vers les flots. Une bonne étoile veille sur nous, le décathlon d'Ostende possède un dernier ensemble d'arceaux qui suffiront à remplacer ceux qui sont endommagés. En revenant vers la mer, nous passons devant le casino de Middelkerke en cours de construction; les défilés de tractopelles nous font fuir à bride abattue et nous passons Le Coq et Blankerberge avant de nous arrêter déjeuner dans le parc de Zeebos. Coin ombragé et douillet, nous ne pouvions rêver mieux pour faire notre petite pause et réparer notre tipi. Alexia se fait rappeler par Morphée, allongée dans l'herbe grasse. La journée se trouvant déjà dans une heure avancée, nous reprenons la route pour traverser Knocke-Heist et découvrons nos premiers jolis et mignons pavillons de la côte flamande. Notre camping d'escale se trouve de l'autre côté du parc naturel de Zwin où de ravissants moutons ont étendu leurs nappes de pic-nique et paissent en admirant le coucher de soleil. Le camping est fabuleux, flambant neuf. La tenancière, très accueillante, réussit à nous dégoter un dernier emplacement libre au calme et surélevé, loin de l'attroupement des camping cars et caravanes. Après avoir placé notre tente, nous nous dirigeons vers le bord de mer où nous trouvons un restaurant Italien, visiblement plus réputé pour ses glaces que ses plats. La soirée se finit en bord de mer avec de petites glaces. Le retour est bref, nous sommes pris dans un désir de faire la course sur le dernier kilomètre restant: plus vite arrivés, plus vite couchés.
@@ -36,7 +39,7 @@ Jour 3 (13 Juin 2023)
 ------
 
 <div style="text-align:center">
-    <img src="/images/pays_bas/pays_bas_2.png" alt=""/>
+    <img src="/images/pays_bas/pays_bas_3.png" alt=""/>
 </div>
 
 <p style="text-align:justify;">
@@ -47,7 +50,7 @@ Jour 4 (14 Juin 2023)
 ------
 
 <div style="text-align:center">
-    <img src="/images/pays_bas/pays_bas_3.png" alt=""/>
+    <img src="/images/pays_bas/pays_bas_4.png" alt=""/>
 </div>
 
 <p style="text-align:justify;">
@@ -58,7 +61,7 @@ Jour 5 (15 Juin 2023)
 ------
 
 <div style="text-align:center">
-    <img src="/images/pays_bas/pays_bas_4.png" alt=""/>
+    <img src="/images/pays_bas/pays_bas_5.png" alt=""/>
 </div>
 
 <p style="text-align:justify;">
