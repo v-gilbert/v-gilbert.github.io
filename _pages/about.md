@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Valentin Gilbert, I'm a independent quantum consultant at <a href="https://www.qounselor.fr/" target="_blank">Qounselor</a>. If you are a business interested in quantum technologies and do not know where to start, feel free to get in touch. 
+Hi, my name is Valentin Gilbert; I'm an independent quantum consultant at <a href="https://www.qounselor.fr/" target="_blank">Qounselor</a>. If you are a business interested in quantum technologies and do not know where to start, feel free to get in touch. 
 
-Before getting deep on quantum technologies I got an engineering degree at the <a href="https://www.utt.fr/" target="_blank">University of Technology of Troyes</a> and several years of data engineer work experience. 
+Before getting deep into quantum technologies, I got an engineering degree at the <a href="https://www.utt.fr/" target="_blank">University of Technology of Troyes</a> and several years of data engineer work experience. 
 
 I validated my Ph.D. in quantum computing in early 2025 with the <a href="https://list.cea.fr/fr/" target="_blank">CEA-List</a> and <a href="https://www.universite-paris-saclay.fr/" target="_blank">University Paris-Saclay</a>, with a deep focus on quantum computer performance assessment and approximation of solutions to optimization problems using quantum and hybrid solutions.
 

@@ -40,14 +40,14 @@ Work experience
   * Surface code
   * Stack: Python, Atos QLM
 
-* Feb 2018 - July 2018: Internship Audit of an helicopter Pre-design software - Airbus Helicopters
+* Feb 2018 - July 2018: Internship Audit of a helicopter Pre-design software - Airbus Helicopters
   * Existing software architecture analysis
   * Specification of new requirements
   * Implementation and integration of the requirements
   * Stack: Java, Mantis
 
 * Apr 2018 - May 2018: Freelance Mission, Proposal of an ERP - Mission Food (Became Taster)
-  * Study of Mission food's requirements
+  * Study of Mission Food's requirements
   * ERP software detailed comparison
 
 * May 2017 - Jan 2018: Analysis and conception of new Inkscape version - Lire Aussi
@@ -56,15 +56,15 @@ Work experience
   * Stack: 
 
 * Apr 2016 - Aug 2016: Internship & Temporary employee - Renault-Nissan Alliance
-  * Redesign of the sharepoint of the unit
+  * Redesign of the Sharepoint of the unit
   * Development and management of internal tools
   * Stack: Excel VBA, Sharepoint
 
 * Oct 2015 - Dec 2015: Tutor - Auvergne University
-  * Support for students in first year
+  * Support for students in the first year
 
 * July 2015 - Aug 2015: Contract agent - Ministère de l'agriculture (France)
-  * Control & process farmer's files as part of Common Agricultural Policy
+  * Control & process farmer's files as part of the Common Agricultural Policy
 
 Teaching experiences
 ======
@@ -73,7 +73,7 @@ Teaching experiences
   * Teaching HTML - CSS and Javascript course 
 
 * Oct 2023 - Oct 2023: 12h of practical courses at <a href="https://www.centralesupelec.fr/" target="_blank">Centrale Supélec</a>
-  * Big data algorithms, techniques and platforms (equiv Master)
+  * Big data algorithms, techniques, and platforms (equiv Master)
 
 * Sep 2022 - Jan 2023: 34h of practical courses at <a href="https://www.polytech.universite-paris-saclay.fr/" target="_blank">Polytech Paris</a>
   * C++ programming (equiv Bachelor)
