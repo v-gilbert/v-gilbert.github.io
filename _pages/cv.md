@@ -11,14 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Quantum Computing on NISQ platforms, [Paris Saclay University](https://www.universite-paris-saclay.fr/) - [CEA List](http://www-list.cea.fr/), 2022-current
-* Engineering degree in Computer Science, [Troyes University](https://www.utt.fr/), 2019 
-* Exchange student, [National University of Singapore](https://www.comp.nus.edu.sg/), 2017
-* University technical degree, [Auvergne University](https://iut.uca.fr/scolarite), 2016
+* Ph.D in Quantum Computing <a href="https://www.universite-paris-saclay.fr/" target="_blank">Paris Saclay University</a> - <a href="https://list.cea.fr/fr/" target="_blank">CEA-List</a>, 2022-2025
+* Engineering degree in Computer Science, <a href="https://www.utt.fr/" target="_blank">University of Technology of Troyes</a>, 2019 
+* Exchange student, <a href="https://www.nus.edu.sg/" target="_blank">National University of Singapore</a>, 2017
+* University technical degree, <a href="https://iut.uca.fr/" target="_blank">Auvergne University</a>, 2016
 
 Work experience
 ======
-* 2022 - current: Ph.D student at CEA List - Paris Saclay University
+* Jan 2025-current: Quantum Computing Freelance at <a href="https://www.qounselor.fr/" target="_blank">Qounselor</a>
+  * Quantum computing application use cases
+  * Technological watch
+  * Teaching
+
+* 2022 - 2025: Ph.D student at CEA List - Paris Saclay University
   * Quantum Computing 
   * Combinatorial optimization
   * NISQ platform
@@ -61,21 +66,20 @@ Work experience
 * July 2015 - Aug 2015: Contract agent - Ministère de l'agriculture (France)
   * Control & process farmer's files as part of Common Agricultural Policy
 
-<!--
-Publications
+Teaching experiences
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
--->
+* Jan 2020 - current: Volunteer at <a href="https://www.konexio.eu/index.html" target="_blank">Konexio</a>
+  * Teaching HTML - CSS and Javascript course 
+
+* Oct 2023 - Oct 2023: 12h of practical courses at <a href="https://www.centralesupelec.fr/" target="_blank">Centrale Supélec</a>
+  * Big data algorithms, techniques and platforms (equiv Master)
+
+* Sep 2022 - Jan 2023: 34h of practical courses at <a href="https://www.polytech.universite-paris-saclay.fr/" target="_blank">Polytech Paris</a>
+  * C++ programming (equiv Bachelor)
 
 Other activities
 ======
-* Jan 2020 - current: Volunteer at [Konexio](https://www.konexio.eu/index.html)
-  * Teaching HTML - CSS and Javascript course 
+
+* Aug 2023 - Sep 2024: President at <a href="https://actif-cea.github.io/" target="_blank">ACTIF</a>.
+  * CEA Ph.D. association in Île-de-France (~ 800 members),  

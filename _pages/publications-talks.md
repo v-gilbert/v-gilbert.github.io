@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Publications & talks"
+permalink: /publications-talks/
 author_profile: true
 ---
 
@@ -14,3 +14,16 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single.html %}
+  {% endfor %}</ul>
+
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single.html %}
+  {% endfor %}</ul>

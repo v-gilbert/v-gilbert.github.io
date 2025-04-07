@@ -1,49 +1,27 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, my name is Valentin Gilbert, I'm a Ph.D student at [CEA List](http://www-list.cea.fr/) and [University Paris-Saclay](https://www.universite-paris-saclay.fr/). Before this specialization, I was a data engineer for two years, and I still have a strong interest in data science and building automated data pipelines for personal projects.
+Hi, my name is Valentin Gilbert, I'm a independent quantum consultant at <a href="https://www.qounselor.fr/" target="_blank">Qounselor</a>. If you are a business interested in quantum technologies and do not know where to start, feel free to get in touch. 
 
-## Research topics
-  * Quantum approximate Optimization Algorithm
-  * Hybrid algorithms
-  * Benchmark of Quantum computers
+Before getting deep on quantum technologies I got an engineering degree at the <a href="https://www.utt.fr/" target="_blank">University of Technology of Troyes</a> and several years of data engineer work experience. 
+
+I validated my Ph.D. in quantum computing in early 2025 with the <a href="https://list.cea.fr/fr/" target="_blank">CEA-List</a> and <a href="https://www.universite-paris-saclay.fr/" target="_blank">University Paris-Saclay</a>, with a deep focus on quantum computer performance assessment and approximation of solutions to optimization problems using quantum and hybrid solutions.
+
+## Area of Expertise
+  * Quantum computer performance benchmark
+  * Application use cases and design of Proof of Concept
+  * Hybrid algorithms for optimization problems
   * Quantum Error Correction
 
-## Quantum posts
+## Last Contributions in Quantum Computing
+  * (04/2025) Creation and launch of the <a href="https://quantumbenchmarkzoo.org/" target="_blank">Quantum Benchmark Zoo</a> 
+  * (01/2025) Doctoral Thesis publication
+  * (07/2024) Performance comparison between quantum annealers and gate-based quantum computers at solving optimization problems.
 
-{% for post in site.quantumposts limit:3 %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<!--
-## Other posts
-
-{% for post in site.otherposts limit:3 %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
--->
-
-## Aventures
-
-{% for post in site.adventures limit:3 %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}

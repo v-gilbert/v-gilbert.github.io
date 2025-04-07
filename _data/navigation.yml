@@ -2,18 +2,12 @@
 main:
   - title: "Home"
     url: "/"
-
-  - title: "Quantum posts"
-    url: /quantum-posts/
-
-  - title: "Other posts"
-    url: /other-posts/
-
-  - title: "Tools"
-    url: /tools/  
     
   - title: "CV"
     url: /cv/
+
+  - title: "Publications & Talks"
+    url: /publications-talks/
     
   - title: "Aventures"
     url: /adventures/
