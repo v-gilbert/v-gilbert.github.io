@@ -5,6 +5,28 @@ permalink: /publications-talks/
 author_profile: true
 ---
 
+<!-- Ph.D Thesis -->
+<h2 class="archive__item-title" itemprop="headline" style="color: #52adc8;">
+  Performance evaluation and control improvements for solving optimization problems on NISQ platforms
+</h2>
+
+<p class="page__date">
+  <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> 
+  <time datetime="2024-12-18T00:00:0+02:00">December 18, 2024</time> 
+  <br/>
+  <strong><i class="fa fa-fw fa-users" aria-hidden="true"></i> Authors:</strong> 
+  Valentin Gilbert
+  <br/>
+  <strong><i class="fa fa-fw fa-globe" aria-hidden="true"></i> Ph.D Thesis Defense</strong> 
+</p>
+
+<div style="display: flex; flex-direction: row; justify-content: space-evenly;">
+  <span>Thesis: <a href="https://theses.hal.science/tel-04923377v1/document" target="_blank"><i class="fas fa-solid fa-download"></i></a></span>
+  <span>Slides: <a href="/files/2024-slide-thesis.pdf" target="_blank"><i class="fas fa-solid fa-download"></i></a></span>
+</div>
+
+
+
 <!-- QCE 2024 -->
 <h2 class="archive__item-title" itemprop="headline" style="color: #52adc8;">
   Benchmarking Quantum Annealers with Near-Optimal Minor-Embedded Instances
@@ -70,7 +92,7 @@ optimization problems. However, solving problems that do not directly map the ch
 
 **Abstract**: The growing availability of quantum computers raises questions about their ability to solve concrete problems. Existing benchmark protocols still lack problem diversity and attempt to summarize quantum advantage in a single metric that measures the quality of found solutions. Unfortunately, the solution quality metric is insuﬃcient for measuring quantum algorithm performance and should be presented along with time and instances coverage metrics. This paper aims to establish the TAQOS protocol to perform a Tight Analysis of Quantum Optimization Systems. The combination of metrics considered by this protocol helps to identify problems and instances liable to produce quantum advantage on Noisy-Intermediate Scale Quantum (NISQ) devices for useful applications. The methodology used for the benchmark process is detailed and an illustrative short case study on the Max-Cut problem is provided.
 <div style="display: flex; flex-direction: row; justify-content: space-evenly;">
-  <span>Peer-reviewed short paper: <a href="/files/2023-publication-TAQOS.pdf" target="_blank"><i class="fas fa-solid fa-download"></i></a></span>
+  <span>Peer-reviewed paper: <a href="/files/2023-publication-TAQOS.pdf" target="_blank"><i class="fas fa-solid fa-download"></i></a></span>
   <span>Poster: <a href="/files/2023-poster-TAQOS.pdf" target="_blank"><i class="fas fa-solid fa-download"></i></a></span>
 </div>
 
@@ -93,7 +115,7 @@ optimization problems. However, solving problems that do not directly map the ch
 
 **Abstract**: With the recent availability of Noisy Intermediate-Scale Quantum devices, the potential of quantum computers to impact the field of combinatorial optimization lies in quantum variational and annealing-based methods. This paper further compares Quantum Annealing (QA) and the Quantum Approximate Optimization Algorithm (QAOA) in solving Higher Order Binary Optimization (HOBO) problems. This case study considers the hypergraph partitioning problem, which is used to generate custom HOBO problems. Our experiments show that D-Wave systems quickly reach limits solving dense HOBO problems. Although the QAOA demonstrates better performance on exact simulations, noisy simulations reveal that the gate error rate should remain under 10−5 to match D-Wave systems’ performance, considering equal compilation overheads for both device.
 <div style="display: flex; flex-direction: row; justify-content: space-evenly;">
-  <span>Peer-reviewed short paper: <a href="/files/2023-publication-HOBO.pdf" target="_blank"><i class="fas fa-solid fa-download"></i></a></span>
+  <span>Peer-reviewed paper: <a href="/files/2023-publication-HOBO.pdf" target="_blank"><i class="fas fa-solid fa-download"></i></a></span>
   <span>Poster: <a href="/files/2023-poster-HOBO.pdf" target="_blank"><i class="fas fa-solid fa-download"></i></a></span>
 </div>
 
