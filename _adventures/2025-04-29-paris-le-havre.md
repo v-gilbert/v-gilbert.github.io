@@ -1,0 +1,49 @@
+---
+title: 'Havre de paix'
+date: 2026-02-13
+permalink: /adventures/paris-le-havre
+tags:
+  - récit
+  - cyclisme
+---
+
+Préambule
+------
+<p style="text-align:justify;">
+Comme chaque année désormais, nous décidons de faire une petite escapade en vélo itinérant lorsque les beaux jours arrivent. Cette fois-ci, l'aventure sera courte (et oui on est toujours très occupé sur Paris: PAS LE TEMPS !!!!); nous partons donc pour le Havre depuis Paris (ou presque), car nous choisissons d'éviter la pollution et les voitures en prenant un billet de train pour Mantes-la-Jolie. 
+</p>
+
+Jour 1 (19 Avril 2025)
+------
+
+<div style="text-align:center">
+    <img src="/images/le_havre/j1.png" alt=""/>
+</div>
+
+<p style="text-align:justify;">
+De bon matin, nous nous dirigeons donc vers la gare Saint-Lazare pour prendre notre TER jusqu'à Mantes-la-jolie. Ne vous fiez pas au nom: apparemment c'est craignos. Ce matin, l'humeur est au beau fixe même si nous avons failli rater le train (à 3 minutes près... heureusement que nous avons de bons mollets). Nous arrivons sans encombres et, contraints par notre rituel gourmand, nous arrêtons dans la maison Guitton prendre des provisions pour la route: sandwich au poulet et diplomate (alias parpaing). Nous nous mettons alors en route en suivant la Seine. Ce début d'étape est reposant: qu'il est bon d'entendre le silence de la nature et les gazouillis d'oiseaux. Il fait plutôt bon, un rayon de soleil vient même nous forcer à nous dévêtir. Nous sommes cernés par la nature: à gauche la Seine, à droite de belles falaises de craie avec quelques grottes troglodyte et même une jolie église parfaitement camouflée dans le calcaire. Notre première étape est l'un des plus beaux villages de France: La Roche-Guyon avec son majestueux château surmonté d'un imposant donjon ayant vu naître François de la Rochefoucauld. Nous reprenons rapidement la route pour essayer de déjeuner peu après Giverny. Nous réalisons trop tard que c'est ici qu'est le restaurant de David Gallienne (saison 11 de Top Chef), nous aurions volontiers glissé nos pieds sous cette table étoilée. Au lieu de cela, nous arrivons déjà aux jardins de Monnet où s'empressent les bus de touristes. Nous trouvons un petit terrain à l'abri des gaz d'échappement pour déjeuner et goûter notre délicieux mais consistant parpaing. Après un petit détour dans le centre piéton de Giverny qui expose de petites échoppes d'artisanat, nous reprenons notre route pour le grand Nord. Nous arrivons aux Andelys en fin d'après-midi. Nous avons visiblement faim, un campeur nous passe devant en cachant son goûter. Après avoir monté notre campement au beau milieu des châteaux gonflables et des bambins qui s'époumonent, nous nous enfuyons prendre un petit rafraîchissement bien mérité au salon de thé de la Villa Aliénor. Nous n'avons décidément rien à envier aux croisiéristes que nous apercevons à l'autre bout du gazon, que nous suivrons jusqu'à Rouen. L'heure du diner sonne mais nous n'avons pas pris nos précautions: nous ne sommes attendus nulle part pour passer la soirée. Après quelques tentatives infructueuses pour trouver un restaurant prêt à nous accueillir (dont un restaurant marocain qui a tout simplement l'air fabuleux), nous terminons dans un kebab chique berlinois, où l'employé a la gentillesse de nous servir un petit thé pour attendre nos sandwichs. Nous prenons à emporter et revenons avec notre paquet en bord de Seine, attristés de ne pas avoir pu trouver de dessert digne de ce nom. On ne nous y reprendra plus, nous serons plus prudents les prochains jours. Nous revenons alors au camping et nous endormons au son des ronflements de nos voisines bikepackeuses.
+</p>
+
+Jour 2 (20 Avril 2025)
+------
+
+<div style="text-align:center">
+    <img src="/images/le_havre/j2.png" alt=""/>
+</div>
+
+<p style="text-align:justify;">
+C'est reparti pour une belle journée de vélo, il fait frais ce matin mais du beau temps est annoncé pour la journée. Nous décidons de prendre notre petit déjeuner au Fournil du Bord de Seine. Il nous faut bien ça car la journée sera longue avec plus de 100kms de prévus (les premiers 100kms d'Alexia !!). Après la tentative de suicide impromptue du porte bagage d'Alexia (le pauvre il a bien raclé par terre ...), on décide de ne pas trainer et de tirer rapidement jusqu'à Rouen, peut être pourrons nous y retrouver Quentin et Emma. Nous coupons le bras de la Seine au niveau d'Igoville, la montée est ardue mais elle nous permet de gagner un précieux temps pour arriver vers l'heure du déjeuner à Rouen. Nous arrivons pile poil pour la fin de la messe, on aperçoit d'ailleurs l'évêque distribuant ses bénédictions (et oui c'est Pâques). De notre côté, nous sommes plutôt attirés par les chocolats et Alexia propose une petite halte dans un chocolatier finement nommé "Choc Ô lat" à deux pas de la cathédrale Notre-Dame de Rouen. A la sortie de l'église, c'est la course, les petites familles se pressent pour aller dévorer le pâté de Pâques pendant que nous cherchons de quoi déjeuner. Nous jetons notre dévolu sur un stand du marché qui vend des plats indiens. Nous prenons à emporter et décidons de manger dans le Parc de l'hôtel de Ville, repaire d'étudiants nous faisant penser au jardin Lecoq par certains côtés. Nous nous apercevons au moment de repartir en longeant les quais que nous aurions pu nous arrêter ici pour déjeuner; ce sera pour une prochaine fois. La deuxième partie de la journée est moins agréable, le quai de Danemark est beaucoup moins accueillant que les bords de Seine dont nous avons l'habitude et nous entrons désormais dans la zone portuaire: Rouen est le premier port exportateur céréalier d'Europe, autant dire que les cargos défilent et que les installations ne sont pas là pour embellir le paysage. Nous prenons le bac de Sahurs pour traverser la Seine et en profitons pour nous arrêter dans un petit café à La Bouille. Lors de notre pause, nous voyons un groupe de bikepackeurs passer dans le sens inverse avec un immense drapeau Normand. La route que nous souhaitons emprunter pour la suite de l'itinéraire s'est apparemment affaissée mais le serveur nous indique: "vous inquiétez pas ça paaasse large !". Nous décidons de lui faire confiance et repartons vers le Nord: en effet, ça passe. Le bord de Seine est de nouveau coquet avec de belles maisons et de petite montées (celle juste avant Bardouville, elle a un peu piqué les mollets). On termine notre journée à travers champs avec de jolis chèvres acrobates, chevaux et poneys. Le camping de la base de loisir est désert, nous y installons notre tente puis filons à la petite auberge de Jumièges juste à côté de l'Abbaye. Rien à voir avec le kebab chique de la veille, cette fois-ci nous nous régalons et repartons le ventre plein pour faire une bonne nuit. Le retour du restaurant fait un peu mal aux pattes, nous ne nous étions pas rendu compte que ça allait autant remonter pour le retour. Journée accomplie: bravo Alexia pour tes premiers 100kms (104,88 au GPS) !!!
+</p>
+
+Jour 3 (21 Avril 2025)
+------
+
+<div style="text-align:center">
+    <img src="/images/le_havre/j3.png" alt=""/>
+</div>
+
+<p style="text-align:justify;">
+C'est la crise ! Nous n'avons pas prévu de petit déjeuner et nous n'avons rien à manger: en plus il fait froid, moche et c'est un jour férié: bref la journée commence bien. Nous repassons par Jumiège où nous avions repéré un distributeur abrité ouvert 24h/24. Nous décidons de nous y arrêter, histoire de trouver quelque chose à grignoter: il y a uniquement de maigrichons burgers vendus avec des chips pour 8€50, prix qui nous parait astronomique. Ce troisième jour est aussi une grosse étape car nous souhaitons arriver au Havre avant la fin de journée pour pouvoir reprendre notre train de retour. Nous commençons par de nouveau longer la Seine, cette étape nous paraît interminable avec un vent de face important. Nous arrivons vers midi dans la seule ville de notre parcours avant le Havre: Port-Jérôme-sur-Seine, où nous faisons halte dans un Auchan pour nous ravitailler. C'est un peu triste, nous aurions bien mangé un bon plat chaud mais malheureusement tout est fermé. Nous mangeons donc nos sandwich triangles, taboulé et gaufres liégeoises dans le parc se tenant en face du Auchan et repartons rapidement car nous commençons déjà à nous refroidir. Juste avant le pont de Tancarville, nous entamons la côte pour arriver à un plateau surplombant la réserve naturelle de l'estuaire de la Seine. Après la redescente du plateau, Alexia décide de partir à toute vitesse pour dépasser un cycliste et là, craaaaampe: ouille ouille ouille (juste avant le resto JR en plus). On fait une petite pause et reprenons difficilement la route jusqu'au Havre où nous trouvons le panneau le plus moche possible pour faire notre photo d'arrivée. Nous traversons le Havre en vitesse pour rejoindre la côte et enfin voir la mer ainsi que la Gold Coast (rochers dorés posés sur la digue, oeuvre réalisée par le duo HeHe: ça doit être plus drôle quand il fait beau). On s'arrête aussi rapidement à la belle-iloise pour faire le stock de sardines en boîte. Comme on aurait pu s'en douter, il commence déjà à pleuvoir. Nous nous précipitons donc pour nous abriter dans une crêperie pour avoir notre gouté tant mérité suite à l'ensemble de nos péripéties. Après s'être réchauffés, il est déjà l'heure de partir à nouveau et de prendre notre train retour. Petit coup de panique après s'être rendu compte qu'Alexia a crevé son pneu arrière: nous regonflons rapidement la chambre à air pour sauter dans le train. Cette dernière journée aura été la plus difficile: nous sommes contents que le périple se termine ici, Deauville aurait peut-être été une meilleure options.
+
+Note pour la prochaine expédition: Partir en côte Sud; au moins là-bas il fait chaud.
+</p>

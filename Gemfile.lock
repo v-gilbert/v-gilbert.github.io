@@ -48,7 +48,7 @@ GEM
     faraday-patron (1.0.0)
     faraday-rack (1.0.0)
     faraday-retry (1.0.3)
-    ffi (1.15.5)
+    ffi (1.17.3)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
     github-pages (225)
@@ -274,6 +274,7 @@ GEM
       unf_ext
     unf_ext (0.0.8.1)
     unicode-display_width (1.8.0)
+    webrick (1.9.2)
     zeitwerk (2.5.4)
 
 PLATFORMS
@@ -284,6 +285,7 @@ DEPENDENCIES
   hawkins
   jekyll-feed
   jekyll-sitemap
+  webrick (~> 1.9)
 
 BUNDLED WITH
    2.1.4
